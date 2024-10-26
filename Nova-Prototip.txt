@@ -1,0 +1,57 @@
+NOT: BU BİLGİLER YETERİNCE ARAŞTIRILMADAN VE YAPAY ZEKA HESAPLAMALARI İLE BURAYA YAZILMIŞTIR. GERÇEĞİ YANSITMAYABİLİR. ARAŞTIRMADAN BAŞLAMA!!!
+
+NOVA PROTOTİP-1 
+
+
+        GEREKLİ MALZEMELER 
+
+1-	metal dişli 2-5 kg-cm Tork kapasiteli Servo Motorlar 0.10/0.20 s/ 60 derece x2  (https://market.samm.com/mg90-mikro-servo-motor-metal-disli)
+2-	Katı yakıtlı C sınıfı 5-10N itiş güçlü Tahrik Motoru 
+3-	İvmeölçer 
+4-	Jiroskop
+5-	GPS Modülü
+6-	Barometre
+7-	Sıcaklık sensörleri
+8-	Yakıt Basıncı sensörleri
+9-	Flight Controller 
+10- 	Gerçek Zamanlı işletim Sistemi (RTOS)
+11-	Motor Sürücüleri 
+12-	ESC (Electronic Speed Controller)
+13-	Radyo İletişim Modülü 
+14-	Telemetri Sistemi 
+15-	Lityum Polimer Piller
+16-	PID ve Sensör Veri Birleştirme Yazılımları 
+
+
+	PROJE KISIMLARI
+
+	MOTOR SEÇİMİ
+Katı Yakıtlı C6 sınıfı 7-10cm 18-24mm çaplı 5-10N itki güçlü motor. 
+
+	ROKET GÖVDESİ
+Fiber-Glas veya Karbon-Fiber veya Karton Tüp malzemesinden 30-50mm çapında 200-500gr ağırlıklı minimum ağır gövde. 
+
+	KANATLAR 
+10-15cm yükseklikte kanat genişliği roketin çapına bağlı 1.5-2 katı Balsa ağacı veya plastik 4 simetrik kanat.
+
+       ROKET BAŞLIĞI
+Roketin toplam uzunluğunun %10-15'i kadar uzun Plastik, Fiber-Glas veya ahşap malzemesinden aerodinamik yapısını desteklemesi amaçlı koni şekilli başlık.
+
+       PARAŞÜT SİSTEMİ 
+1m/30-50cm çapında naylon-plastik hızlı açılabilen bir paraşüt. 
+
+     ELEKTRONİK SİSTEMLERİ
+10-50 gr ağırlığındaki uçuş kontrol bilgisayarı diğer birim sistemleri 5-10 gr ağırlığında ve Li-Po pil ise 30-50gr ağırlığında olacak şekilde hazırlanacak.
+
+    İTKİ VE STEBİLİZASYON SİSTEMLERİ
+Motor sınıfına uygun küçük bir esc ve roketin stabil kalabilmesi için ağırlık merkezini dikkatli ayarlamak amaçlı ivmeölçer ve jiroskoplardan alınan verilere göre motorlar kontrol edilmeli 
+
+	TOPLAM:
+Motor: 50-100 gr
+Gövde: 50-150 gr
+Kanatlar: 20-40gr
+Başlık: 10-30gr
+Paraşüt: 5-10gr
+Elektronik sistemler: 50-100gr
+Toplam: 200-500gr 
+
